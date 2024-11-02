@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @AsserMoustafa
+# 👋 Hi, I’m @Asser22
 Welcome to my GitHub! I’m Asser Moustafa, currently a Research Assistant at North Central College and an experienced Software Engineer with a demonstrated history of excellence in AI research and software development.
 
 ---
